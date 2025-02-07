@@ -39,3 +39,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# unused files
+app/absurd-logo.tsx
+app/pixel-logo.tsx
+app/designer-logo.tsx
+app/smooth-logo.tsx
+app/dvd-logo.tsx
+app/absurd-logo.module.css
+app/pixel-logo.module.css
+app/designer-logo.module.css
+app/smooth-logo.module.css
+app/dvd-logo.module.css
+public/vercel.svg
+public/globe.svg
+public/file.svg
+
+# IDE
+.idea
+.vscode
